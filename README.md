@@ -2,7 +2,7 @@
 
 This repo contains files for an example of Email/Password Authentication on using Firebase inside of React Native. 
 
-This was based on the first project lecture from Stephen Grider's Complete React Native and Redux Course Udemy course.
+This was based on a project lecture from Stephen Grider's Complete React Native and Redux Course Udemy course.
 
 ### Prerequisites
 1. Node v6.6 or above
